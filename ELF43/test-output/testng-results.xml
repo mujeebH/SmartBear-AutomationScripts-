@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63915" started-at="2023-01-19T16:01:59 IST" finished-at="2023-01-19T16:03:03 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63915" started-at="2023-01-19T16:01:59 IST" finished-at="2023-01-19T16:03:03 IST">
+      <class name="demo.Zomato_001Test">
+        <test-method status="PASS" signature="zomato()[pri:0, instance:demo.Zomato_001Test@74650e52]" name="zomato" duration-ms="63774" started-at="2023-01-19T16:01:59 IST" finished-at="2023-01-19T16:03:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- zomato -->
+      </class> <!-- demo.Zomato_001Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
